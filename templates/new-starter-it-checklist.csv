@@ -1,0 +1,15 @@
+Task,Owner,Due,Status
+Raise new-starter request with HR (name role department start date),HR,5 days before start date,Not started
+Create Microsoft 365 account and set directory attributes (title department manager location),IT Service Desk,3 days before start date,Not started
+Assign Microsoft 365 licence per role profile,IT Service Desk,3 days before start date,Not started
+Add user to department and application security groups per access matrix,IT Service Desk,3 days before start date,Not started
+Confirm shared mailbox and distribution group membership with line manager,IT Service Desk,2 days before start date,Not started
+Allocate device from stock and record in asset register,IT Service Desk,2 days before start date,Not started
+Enrol device in Intune and confirm device compliance (encryption OS endpoint protection),IT Service Desk,1 day before start date,Not started
+Apply standard configuration (Wi-Fi/VPN email OneDrive printers),IT Service Desk,1 day before start date,Not started
+Complete asset sign-off form at device handover,IT Service Desk,Start date,Not started
+Register user for MFA (Microsoft Authenticator) at first sign-in,User with IT support,Start date,Not started
+Confirm Conditional Access policies apply to the account,IT Service Desk,Start date,Not started
+Issue IT welcome note (how to raise a ticket support hours security basics),IT Service Desk,Start date,Not started
+Verify first sign-in email Teams and key applications with user,IT Service Desk,Start date,Not started
+Close onboarding request and file completed checklist,IT Service Desk,1 day after start date,Not started

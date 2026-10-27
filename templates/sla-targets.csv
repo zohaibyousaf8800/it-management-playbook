@@ -1,0 +1,5 @@
+Priority,Response target,Resolution target,Escalation
+P1 - Critical,15 minutes,4 hours,"Escalate to IT Manager immediately; 2nd line engaged within 30 minutes; leadership notified within 30 minutes; vendor (3rd line) engaged if product defect suspected"
+P2 - High,30 minutes,8 business hours,"Escalate to 2nd line if not progressing within 2 hours; IT Manager informed if resolution target at risk"
+P3 - Medium,4 business hours,3 business days,"Escalate to service desk lead if response target missed; reassign or 2nd line assist if unresolved after 2 business days"
+P4 - Low,1 business day,5 business days,"Escalate to service desk lead if resolution target missed; batch with similar requests where efficient"
